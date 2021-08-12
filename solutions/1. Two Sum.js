@@ -5,7 +5,7 @@
  */
 var twoSum = function(nums, target) {
     
-    var map={};
+    var map=[];
     for(var i=0;i<nums.length;i++){
         var values=nums[i];
         var complementPair=target-values;
