@@ -18,3 +18,4 @@
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|92 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|80 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|168 ms|
+|976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|112 ms|
