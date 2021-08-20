@@ -14,6 +14,7 @@
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[JavaScript](./solutions/147.%20Insertion%20Sort%20List.js)|144 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[JavaScript](./solutions/148.%20Sort%20List.js)|128 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|80 ms|
+|179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[JavaScript](./solutions/179.%20Largest%20Number.js)|76 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|92 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|80 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|168 ms|
