@@ -10,6 +10,7 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./solutions/35.%20Search%20Insert%20Position.js)|N/A|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JavaScript](./solutions/56.%20Merge%20Intervals.js)|84 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[JavaScript](./solutions/57.%20Insert%20Interval.js)|76 ms|
+|69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|84 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|88 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|100 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|N/A|
